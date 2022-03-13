@@ -1,7 +1,7 @@
 {
-  "name": "hisoka-morou",
+  "name": "X1Botz",
   "version": "1.2.3",
-  "description": "WhatsApp Using Lib Baileys Multi Device",
+  "description": "Ainh Macan",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Dika Ardnt.",
+  "author": "Indra>_<.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
