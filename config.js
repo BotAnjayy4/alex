@@ -18,20 +18,20 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285741857464','6283127014833','6281365814200']
-global.pemilik = ['6283127014833']
-global.premium = ['6281365814200']
-global.pengguna = 'Nama Lu Isi'
-global.botnma = 'Lycho Bot'
-global.footer = 'KahfzXzy' //FooterText Biar Di Bawah Nya Ada Text 
-global.web = 'https://youtube.com/c/KahfzXzy' // Ubah Sama Lu Web Nya Bebas 
-global.web2 = 'https://github.com/K4HFZ' //Ubah Jga Bebas Sama lu 
-global.ganti = 'Y O U T U B E ME' //Edit Terserah Lu Mau Apa
+global.owner = ['6289667644225','6289667644225','6289667644225']
+global.pemilik = ['6289667644225']
+global.premium = ['6289667644225']
+global.pengguna = 'IndraStore'
+global.botnma = 'X2Botz'
+global.footer = 'X2Botz' //FooterText Biar Di Bawah Nya Ada Text 
+global.web = '6289667674225' // Ubah Sama Lu Web Nya Bebas 
+global.web2 = 'https://github.com/BotAnjayy4' //Ubah Jga Bebas Sama lu 
+global.ganti = 'Owner Me' //Edit Terserah Lu Mau Apa
 global.ganti2 = 'Github'
-global.ownernma = 'KahfzXzy'
-global.packname = 'Lycho Bot'
-global.author = 'WhatsApp Bot'
-global.sessionName = 'hisoka'
+global.ownernma = 'Indraku'
+global.packname = 'X2Botz'
+global.author = 'Saya'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
@@ -42,7 +42,7 @@ global.mess = {
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
-    wait: 'Loading...',
+    wait: 'Wet Banh ...',
     endLimit: 'Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12',
 }
 global.limitawal = {
