@@ -1,5 +1,5 @@
 {
-  "name": "X1Botz",
+  "name": "Alex Botz",
   "version": "1.2.3",
   "description": "Ainh Macan",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Indra>_<.",
+  "author": "Alex.",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
